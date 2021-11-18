@@ -22,14 +22,14 @@
        B.  Filtering out NAN/NA values 
        C.  Filling NA values 
        D.  Drop NA values. 
-
+```python
 #import pandas
 import pandas as pd
 
 #Create a dataframe
 df = pd.read_csv("employees.csv")
 df.head(10)
-
+```
 
 ```python
 #Identifying NAN/NA Values in Teams Column
