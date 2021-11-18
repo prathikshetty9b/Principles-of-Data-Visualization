@@ -1,7 +1,7 @@
 
 # Principles of Data Visualization
 
-## Assignment 1 | Due Date : 23 Nov 2021
+## Assignment 2 | Due Date : 23 Nov 2021
 
 ## NumPy and Pandas
 
